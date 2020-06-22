@@ -1,0 +1,6 @@
+﻿  methods.cpp
+c:\users\wikto\desktop\wiktor\semestr iii\aisd\wyszukiwanie wzorca\projekt42\projekt42\methods.cpp(175): warning C4101: 'z': unreferenced local variable
+c:\users\wikto\desktop\wiktor\semestr iii\aisd\wyszukiwanie wzorca\projekt42\projekt42\methods.cpp(174): warning C4101: 'y': unreferenced local variable
+c:\users\wikto\desktop\wiktor\semestr iii\aisd\wyszukiwanie wzorca\projekt42\projekt42\methods.cpp(173): warning C4101: 'x': unreferenced local variable
+  Projekt42.vcxproj -> C:\Users\wikto\Desktop\Wiktor\semestr III\AISD\Wyszukiwanie wzorca\Projekt42\Debug\Projekt42.exe
+  Projekt42.vcxproj -> C:\Users\wikto\Desktop\Wiktor\semestr III\AISD\Wyszukiwanie wzorca\Projekt42\Debug\Projekt42.pdb (Partial PDB)

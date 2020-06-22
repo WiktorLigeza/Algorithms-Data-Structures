@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\wikto\desktop\wiktor\semestr iii\aisd\avl\projekt44\projekt44\main.cpp(19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Projekt44.vcxproj -> C:\Users\wikto\Desktop\Wiktor\semestr III\AISD\AVL\Projekt44\Debug\Projekt44.exe
+  Projekt44.vcxproj -> C:\Users\wikto\Desktop\Wiktor\semestr III\AISD\AVL\Projekt44\Debug\Projekt44.pdb (Partial PDB)
